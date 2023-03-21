@@ -19,7 +19,7 @@ With the edit buttom the app will open a new input on the bottom to edit the tas
 [![3.jpg](https://i.postimg.cc/jdhzq6bm/3.jpg)](https://postimg.cc/gnnwNZrH)
 
 If you click any edit buttom it will open the bottom input with his value.
-[![4.jpg](https://i.postimg.cc/NFnvR2qc/4.jpg)](https://postimg.cc/XB9PbJYH)
+[![4.jpg](https://i.postimg.cc/NFnvR2qc/4.jpg)](https://postimg.cc/XB9PbJYH) 
 
 Once the task has been edited, the list will be rendered automatically.
 You can press 'enter' to acept or 'escape' to exit that input.
