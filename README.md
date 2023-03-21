@@ -10,4 +10,4 @@ Technologies implemented:
 - Vite
 - Tailwind
 
-!(https://github.com/Facundo-Correa/todo-larave-vue/blob/main/ToDo-laravel-vue/resources/images/1.jpg)
+!(todo-larave-vue/ToDo-laravel-vue/resources/images/1.jpg)
