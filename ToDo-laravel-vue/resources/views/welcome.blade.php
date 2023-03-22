@@ -13,6 +13,6 @@
 
     </head>
     <body class="antialiased">
-        <div id="app" class="bg-gray-900 min-h-screen h-full font-inter text-gray-100 flex items-center justify-center py-20 px-5"></div>
+        <div id="app" class="bg-gray-900 min-h-screen h-full font-inter text-gray-100 flex items-center justify-center py-20 px-5 min-w-min"></div>
     </body>
 </html>
