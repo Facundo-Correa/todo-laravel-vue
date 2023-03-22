@@ -9,6 +9,8 @@ Technologies implemented:
 - Vue 3
 - Vite
 - Tailwind
+- PHP 8.2
+- Fontawesome v5
 
 [![1.jpg](https://i.postimg.cc/3JzDxyv2/1.jpg)](https://postimg.cc/9rtfxQ1f)
 
